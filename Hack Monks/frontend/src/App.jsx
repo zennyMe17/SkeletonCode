@@ -23,6 +23,7 @@ const App = () => {
     dispatch(initializeAuth());
   }, [dispatch]);
 
+  // hi hello
   return (
     <Router>
       <Navbar />
